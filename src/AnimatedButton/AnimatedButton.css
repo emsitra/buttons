@@ -1,0 +1,7 @@
+.animated-button {
+  display: flex;
+  width: 250px;
+  height: 50px;
+  overflow: hidden;
+  flex-wrap: wrap;
+}

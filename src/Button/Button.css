@@ -1,0 +1,14 @@
+button {
+  width: 250px;
+  height: 50px;
+  background: #000;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  transition: all 1s ease-in;
+}
+
+button.hidden {
+  margin-left: -250px;
+}
